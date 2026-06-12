@@ -1,0 +1,4 @@
+# Keep GitHub's language bar focused on the actual tool (Shell).
+# The landing page and banner art are presentation/docs, not core code.
+index.html  linguist-documentation
+*.svg       linguist-vendored
