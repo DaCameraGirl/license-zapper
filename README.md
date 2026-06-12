@@ -16,6 +16,13 @@ A repo with no `LICENSE` is legally "all rights reserved" by default, but it
 *looks* unfinished and leaves people unsure what they're allowed to do. If you
 ship a lot of repos, stamping each one by hand is a chore. This zaps them all.
 
+## Origin
+
+Born the night of 2026-06-12 out of a joke — *"I wish I could just zap all my
+repos with a license"* — and shipped about an hour later. On his first real run
+he stamped **20 bare repos** in one pass. Full story in the
+[changelog](CHANGELOG.md).
+
 ## Requirements
 
 - [GitHub CLI](https://cli.github.com/) (`gh`), authenticated: `gh auth login`
