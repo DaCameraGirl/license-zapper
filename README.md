@@ -1,7 +1,37 @@
 <p align="center">
-  <img src="assets/zapper.svg" alt="A cartoon frog zapping a firefly with its tongue" width="640">
+  <img src="docs/readme-banner.svg" alt="License Zapper — Mass LICENSE production — stamp a license into every repo that lacks one." width="720" />
 </p>
 
+<p align="center">
+  <strong>Mass LICENSE production — stamp a license into every repo that lacks one.</strong>
+</p>
+
+<p align="center">
+  <a href="https://dacameragirl.github.io/license-zapper/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-33d69f?style=for-the-badge&logo=github&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/DaCameraGirl/license-zapper"><img src="https://img.shields.io/badge/Code-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/deploy-GitHub Pages-000000?style=flat-square&logo=github&logoColor=white" alt="deploy-GitHub Pages" />
+  <img src="https://img.shields.io/badge/type-devops tool-bc8cff?style=flat-square" alt="type-devops tool" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-100%25-4EAA25?style=flat-square&logo=github&logoColor=white" alt="Shell" />
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-automation-4EAA25?style=flat-square" alt="Shell-automation" />
+  <img src="https://img.shields.io/badge/GitHub-repos-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub-repos" />
+</p>
+
+<p align="center">
+  Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
+</p>
 <h1 align="center">license-zapper 🐸⚡</h1>
 
 <p align="center">
@@ -26,7 +56,9 @@ API. No cloning twenty repos by hand. 🪰⚡
 
 **Dry-run by default** — nothing changes until you say `--go`.
 
-## 🪰 Usage
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%AA%B0%20Usage&fontSize=22&fontColor=e6edf3" width="720" alt="🪰 Usage" /></p>
+
 
 ```bash
 bash zap-licenses.sh                     # 👀 dry run — see what it WOULD do
@@ -35,7 +67,9 @@ bash zap-licenses.sh --go                # ⚡ stamp the proprietary license
 bash zap-licenses.sh --license mit --go  # ⚡ stamp MIT
 ```
 
-## 🎛️ Options
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%9B%EF%B8%8F%20Options&fontSize=22&fontColor=e6edf3" width="720" alt="🎛️ Options" /></p>
+
 
 | Flag | Default | What it does |
 | --- | --- | --- |
@@ -48,19 +82,25 @@ bash zap-licenses.sh --license mit --go  # ⚡ stamp MIT
 | `--include-archived` | off | Also include archived repos |
 | `--go` | off (dry run) | Actually write the LICENSE |
 
-## 🛟 Safety
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9B%9F%20Safety&fontSize=22&fontColor=e6edf3" width="720" alt="🛟 Safety" /></p>
+
 
 - 🐸 **Dry run unless `--go`.** Look before you leap.
 - ⏭️ Skips any repo that already has a license.
 - 🔒 Skips archived (read-only) repos unless you ask for them.
 - 🎯 `--only` / `--exclude` for precise aim.
 
-## 🐣 Requirements
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%90%A3%20Requirements&fontSize=22&fontColor=e6edf3" width="720" alt="🐣 Requirements" /></p>
+
 
 - [GitHub CLI](https://cli.github.com/) (`gh`), authenticated: `gh auth login`
 - `bash` + `base64` (Git Bash on Windows works fine)
 
-## 💚 Origin
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%92%9A%20Origin&fontSize=22&fontColor=e6edf3" width="720" alt="💚 Origin" /></p>
+
 
 Born the night of **2026-06-12** out of a joke — *"lol I wish I could just zap
 all my repos with a license"* — and shipped about an hour later. On his very
