@@ -57,7 +57,7 @@ API. No cloning twenty repos by hand. 🪰⚡
 **Dry-run by default** — nothing changes until you say `--go`.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%AA%B0%20Usage&fontSize=22&fontColor=e6edf3" width="720" alt="🪰 Usage" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%AA%B0%20Usage&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🪰 Usage" /></p>
 
 
 ```bash
@@ -68,7 +68,7 @@ bash zap-licenses.sh --license mit --go  # ⚡ stamp MIT
 ```
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%9B%EF%B8%8F%20Options&fontSize=22&fontColor=e6edf3" width="720" alt="🎛️ Options" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%8E%9B%EF%B8%8F%20Options&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🎛️ Options" /></p>
 
 
 | Flag | Default | What it does |
@@ -83,7 +83,7 @@ bash zap-licenses.sh --license mit --go  # ⚡ stamp MIT
 | `--go` | off (dry run) | Actually write the LICENSE |
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9B%9F%20Safety&fontSize=22&fontColor=e6edf3" width="720" alt="🛟 Safety" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%9B%9F%20Safety&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🛟 Safety" /></p>
 
 
 - 🐸 **Dry run unless `--go`.** Look before you leap.
@@ -92,14 +92,14 @@ bash zap-licenses.sh --license mit --go  # ⚡ stamp MIT
 - 🎯 `--only` / `--exclude` for precise aim.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%90%A3%20Requirements&fontSize=22&fontColor=e6edf3" width="720" alt="🐣 Requirements" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%90%A3%20Requirements&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🐣 Requirements" /></p>
 
 
 - [GitHub CLI](https://cli.github.com/) (`gh`), authenticated: `gh auth login`
 - `bash` + `base64` (Git Bash on Windows works fine)
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%92%9A%20Origin&fontSize=22&fontColor=e6edf3" width="720" alt="💚 Origin" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%92%9A%20Origin&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="💚 Origin" /></p>
 
 
 Born the night of **2026-06-12** out of a joke — *"lol I wish I could just zap
